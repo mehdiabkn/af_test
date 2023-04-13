@@ -201,14 +201,13 @@ int main()
     }
     // QUESTION 4 : On a stocké le contenu du fichier csv dans une structure vector que l'on va afficher
 
-    vector<O_D> o_d = lire_fichier("C:/Users/Mehdi/Downloads/OrigineDestinationTarif.csv");
+    vector<O_D> o_d = lire_fichier("OrigineDestinationTarif.csv");
     cout << "\nQUESTION 4 : \n" << endl;
     affiche_vecteur_o_d(o_d);
 
     // QUESTION 5 :
-    // REMARQUE : pour des raisons d'organisation de mes fichiers personnels, j'utilise des chemin absolus mais on peut imaginer vouloir stocker ces fichiers au sein du projet avec des chemins relatifs
     cout << "\nQUESTION 5 : la fonction write_into_file a bien ecrit dans le fichier renseigne en parametre \n" << endl;
-    string data = "C:/Users/Mehdi/data.csv";
+    string data = "data.csv";
     objet_test.write_into_file(data);
    // obj.toString(); // Afficher les données 
     
