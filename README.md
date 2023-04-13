@@ -1,6 +1,4 @@
-
-
- #Test case CPOO “Flights”
+#Test case CPOO “Flights”
 
 
 Messieurs Ponchon et Amrane, 
