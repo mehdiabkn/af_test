@@ -1,0 +1,5 @@
+﻿  TestAF.cpp
+C:\Users\Mehdi\source\repos\TestAF\TestAF\TestAF.cpp(28,38): warning C4267: 'initialisation' : conversion de 'size_t' en 'unsigned int', perte possible de données
+C:\Users\Mehdi\source\repos\TestAF\TestAF\TestAF.cpp(45,38): warning C4267: 'initialisation' : conversion de 'size_t' en 'unsigned int', perte possible de données
+C:\Users\Mehdi\source\repos\TestAF\TestAF\TestAF.cpp(188,57): warning C4267: 'initialisation' : conversion de 'size_t' en 'unsigned int', perte possible de données
+  TestAF.vcxproj -> C:\Users\Mehdi\source\repos\TestAF\x64\Debug\TestAF.exe
