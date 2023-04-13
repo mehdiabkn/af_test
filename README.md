@@ -7,7 +7,7 @@ Messieurs Ponchon et Amrane,
 
 Je vous transmets avec mon travail un court compte rendu reprenant mes observations et questionnements. 
 J’ai documenté et organisé le code de sorte à ce qu’il soit rapide à comprendre et j’ai fait un main reprenant chacune des questions. 
-Cette documentation sera également dans le Readme.md du repository github.
+
 
 <h2> Conception, UML </h2>
 
