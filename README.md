@@ -19,7 +19,7 @@ Image 1 : Relation d’agrégation entre les deux classes du test case (Diagramm
 
 
 
-
+<img src="https://github.com/mehdiabkn/af_test/blob/main/conception.PNG">
 
 
 
