@@ -15,12 +15,11 @@ D’abord, une passe rapide sur la conception pour simplement évoquer la relati
 La vie de l’objet O&D ne dépend pas de la vie de l’objet FlightNbr, autrement la nature de la relation serait une composition.
 
 
-Image 1 : Relation d’agrégation entre les deux classes du test case (Diagramme UML)
 
 
 
 <img src="https://github.com/mehdiabkn/af_test/blob/main/conception.PNG">
-
+Image 1 : Relation d’agrégation entre les deux classes du test case (Diagramme UML)
 
 
 
