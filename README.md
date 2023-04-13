@@ -39,6 +39,7 @@ Admettons qu’il existe dix vols reliant CDG à JFK.
 Neuf de ces vols ont un tarif de 1000€ (contexte classique). Le dixième a un tarif qui s’élève à 5000€ (contexte exceptionnel). 
 Dans la configuration actuelle, nous aurons un tarif moyen noté avgtarif de 3000€ alors que l’on constate bien que la moyenne doit être bien moins élevée (1400€). 
 
+Aussi, le type long semble ne pas convenir car il y a des valeurs décimales dans le fichier csv contenant les o&d et tarifs. Float ou double serait peut-être plus adapté?
   <h2> Approfondir </h2>
 
 On pourrait imaginer aller plus loin dans ce use case et concevoir une UI pour ce logiciel, de le connecter à une base de données et des pipelines pour alimenter en continu la base de données de tarifs ainsi qu’un serveur (ex: Jenkins) permettant d’exécuter le code de manière régulière (une fois par jour / par semaine).
